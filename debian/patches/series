@@ -11,3 +11,9 @@ Don-t-check-sphinx-build-version.patch
 change_type_from_int_to_Atomic_word
 fix_without_sysctl.patch
 ffmpeg_2.9.patch
+CVE-2017-several.patch
+CVE-2017-14136.patch
+CVE-2017-17760.patch
+CVE-2017-1000450.patch
+CVE-2018-5268.patch
+CVE-2018-5269.patch
